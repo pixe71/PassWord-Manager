@@ -41,4 +41,4 @@ A simple and secure password manager built in **C#**, allowing users to locally 
 ## 🙋 Contact
 Have a question or suggestion ?
 
-📧 luc.tourniem@gmail.com
+📧 contact@luc-tournie.fr
